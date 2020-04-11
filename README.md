@@ -1,4 +1,4 @@
-# GO-Plot-Proteomics-
+# GO-Plot--
 setwd ("C:/Users/Pawan Jha")
 
 library(GOplot)
