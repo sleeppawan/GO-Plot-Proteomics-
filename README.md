@@ -1,5 +1,5 @@
 # GO-Plot-Proteomics-
-setwd ("C:/Users/Pawan Jha/Box Sync/WORKING_Soft/Single Cell RNAseq/Single Cell_SCIENCE/Proteomics New/GO_Analysis/Neurons_Phospho")
+setwd ("C:/Users/Pawan Jha")
 
 library(GOplot)
 library(ggplot2)
