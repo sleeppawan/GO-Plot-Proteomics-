@@ -19,15 +19,15 @@ GOBar(circ, display = 'multiple', title = 'Z-score coloured barplot', zsc.col = 
 
 #############cirplot##########size width and lenghth 8
 ##BP##
-IDs <- c("GO:000000",	"GO:000000",	"GO:000000",	"GO:0000000",	"GO:0000000",	"GO:0000000")
+IDs <- c("GO",	"GO:",	"GO:",	"GO:",	"GO:",	"GO:")
 GOCircle(circ, nsub = IDs)
 
 ##CC##
-IDs <- c("GO:000000",	"GO:0000000",	"GO:000000",	"GO:000000",	"GO:0000000",		"GO:00000000")
+IDs <- c("GO",	"GO:",	"GO:",	"GO",	"GO:",		"GO:")
 GOCircle(circ, nsub = IDs)
 
 ##MF##
 
-IDs <- c("GO:0000000",	"GO:000000",	"GO:000000",	"GO:0000000",	"GO:000000",	"GO:0000000")
+IDs <- c("GO:",	"GO:",	"GO:",	"GO",	"GO",	"GO")
 GOCircle(circ, nsub = IDs)
 ##########################
